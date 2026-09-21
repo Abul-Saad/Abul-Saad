@@ -1,4 +1,4 @@
-![logo](https://github.com/Abul-Saad/Abul-Saad/blob/main/Banner%20all%20records.jpg)
+![logo](https://github.com/Abul-Saad/Abul-Saad/blob/7a083e711361a4f9cf54b1b0ef9b5433ac3bf2d5/banner-2.2.png)
 
 <h1 align="center">Hi 👋, I'm Abul Saad</h1>
 <h3 align="center">A passionate Full-Stack-Developer from India</h3>
