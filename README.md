@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abul-saad&label=Profile%20views&color=0e75b6&style=flat" alt="abul-saad" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://asaadportfolio.netlify.app/](https://asaadportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://asaadportfolio.netlify.app](https://asaadportfolio.netlify.app)
 
 - 📫 How to reach me **abulsaad81@gmail.com**
 
